@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Sami
-- 👀 I’m interested in You
-- 🌱 I’m currently learning About U
-- 💞️ I’m looking to collaborate on Being Always with you
+- 👀 I’m interested in .Net
 
 
 <!---
